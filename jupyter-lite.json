@@ -56,12 +56,6 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.145e469029155b53b350.js",
-        "name": "@timkpaine/jupyterlab_miami_nights"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
         "load": "static/remoteEntry.490fbd2bdf754b661d13.js",
         "name": "bqplot"
       },
