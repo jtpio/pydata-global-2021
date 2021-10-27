@@ -1,5 +1,5 @@
 bqplot
-ipycanvas
+ipycanvas>=0.9.1
 ipyleaflet
 ipywidgets>=7.6
 jupyterlab~=3.2.0
