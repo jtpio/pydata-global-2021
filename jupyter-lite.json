@@ -74,6 +74,12 @@
       {
         "extension": "./extension",
         "liteExtension": false,
+        "load": "static/remoteEntry.e9df3e4e9577abfc8848.js",
+        "name": "jupyter-matplotlib"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
         "load": "static/remoteEntry.a7ffe26201ed2eee8505.js",
         "name": "jupyter-wren-syntax",
         "style": "./style"
