@@ -1,6 +1,7 @@
 bqplot
 ipycanvas>=0.9.1
 ipyleaflet
+ipympl>=0.8.2
 ipywidgets>=7.6
 jupyterlab~=3.2.0
 jupyterlab-drawio
